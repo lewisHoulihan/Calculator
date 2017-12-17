@@ -1,0 +1,1 @@
+C:\Users\Lewis\Documents\AppDevelopment\Calculator\Calculator\Calculator.csproj;x86
